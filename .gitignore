@@ -1,0 +1,30 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Saved models / checkpoints (regenerate by running the notebook)
+*.h5
+*.keras
+saved_model/
+checkpoints/
+
+# Datasets (MNIST downloads automatically via Keras)
+*.npz
+data/
+
+# Anaconda project metadata
+anaconda_projects/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
