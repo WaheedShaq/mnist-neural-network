@@ -8,8 +8,8 @@ data preprocessing → model design → training → evaluation.
 
 > _Fill these in after running the notebook top-to-bottom:_
 >
-> - **Test accuracy:** `__.__%`
-> - Sample predictions and a confusion matrix are shown at the bottom of the notebook.
+> - **Test accuracy:** **97.73%** (on the held-out test set)
+> - A confusion matrix and a top-confusions breakdown are shown at the bottom of the notebook.
 
 <!-- Tip: add a screenshot of the predictions grid or confusion matrix here, e.g.:
 ![Sample predictions](images/predictions.png) -->
